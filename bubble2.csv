@@ -1,4 +1,4 @@
-Index,HourType,Long Acc,Lat Acc,Speed
+Index,HourType,LongAcc,LatAcc,Speed
 0,Rush Hour,0.002038736,0,20.94
 1,Rush Hour,-0.002038736,0,20.92
 2,Rush Hour,-0.003058104,0,20.92
