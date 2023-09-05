@@ -1,4 +1,4 @@
-Index,HourType,Long Acc,Lat Acc,Yaw Rate,Speed,Heading
+Index,HourType,LongAcc,LatAcc,Yaw Rate,Speed,Heading
 0,Rush Hour,0.002038736,0,-0.17,20.94,90.65
 1,Rush Hour,-0.002038736,0,0.76,20.92,91.025
 2,Rush Hour,-0.003058104,0,0.27,20.92,90.775
